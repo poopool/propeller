@@ -1,4 +1,4 @@
-FROM golang:1.8-alpine
+FROM golang:1.8
 
 ARG artifact_root="."
 #Uncomment for local testing
